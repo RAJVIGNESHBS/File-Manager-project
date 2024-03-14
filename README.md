@@ -1,6 +1,6 @@
 # Video KYC System
 
-![Video KYC]([https://logowik.com/content/uploads/images/standard-chartered-bank-new-20211713.jp])
+![Video KYC](https://logowik.com/content/uploads/images/standard-chartered-bank-new-20211713.jp)
 
 A web-based system for conducting video KYC (Know Your Customer) sessions. This system allows users to register themselves by providing necessary details and conduct video-based KYC sessions for identity verification purposes.
 
@@ -21,19 +21,19 @@ Python is a widely-used programming language known for its simplicity and versat
 
 ### HTML/CSS/JavaScript
 
-![Web Technologies](path/to/web_technologies.png)
+![Web Technologies](https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png)
 
 HTML, CSS, and JavaScript are fundamental technologies for building web applications...
 
 ### CSV
 
-![CSV Icon](path/to/csv_icon.png)
+![CSV Icon](https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63ff784daa460f472e688fb0_csv%20(2).png)
 
 CSV (Comma-Separated Values) is a common file format used for storing tabular data...
 
 ### WebRTC
 
-![WebRTC Logo](path/to/webrtc_logo.png)
+![WebRTC Logo](https://e7.pngegg.com/pngimages/180/336/png-clipart-webrtc-web-browser-computer-software-announcing-text-logo.png)
 
 WebRTC (Web Real-Time Communication) is a free, open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces (APIs)...
 
