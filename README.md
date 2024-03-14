@@ -21,7 +21,7 @@ Python is a widely-used programming language known for its simplicity and versat
 
 ### HTML/CSS/JavaScript
 
-![Web Technologies](https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png)
+![Web Technologies](https://e7.pngegg.com/pngimages/585/981/png-clipart-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-thumbnail.png)
 
 HTML, CSS, and JavaScript are fundamental technologies for building web applications...
 
