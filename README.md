@@ -1,6 +1,6 @@
 # Video KYC System
 
-![Video KYC](https://logowik.com/content/uploads/images/standard-chartered-bank-new-20211713.jp)
+![Video KYC](https://w7.pngwing.com/pngs/172/703/png-taransparent-standard-chartered-bank-logo-business-finance-bank-blue-text-investment.png)
 
 A web-based system for conducting video KYC (Know Your Customer) sessions. This system allows users to register themselves by providing necessary details and conduct video-based KYC sessions for identity verification purposes.
 
