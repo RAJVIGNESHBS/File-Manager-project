@@ -15,19 +15,19 @@ A web-based system for conducting video KYC (Know Your Customer) sessions. This 
 
 ### Python
 
-![Python Logo](https://freepngimg.com/thumb/categories/1402.png)
+![Python Logo](https://skillicons.dev/icons?i=py)
 
 Python is a widely-used programming language known for its simplicity and versatility...
 
 ### HTML/CSS/JavaScript
 
-![Web Technologies](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8r7Z1GLe_lKi0f_Lf2OC8uJU11-GjGrljg&usqp=CAU)
+![Web Technologies](https://skillicons.dev/icons?i=html,css,js)
 
 HTML, CSS, and JavaScript are fundamental technologies for building web applications...
 
 ### CSV
 
-![CSV Icon](https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63ff784daa460f472e688fb0_csv%20(2).png)
+![CSV Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2mg1BJ2p_OwGkjxP41GGB55tmaQWz517ZovxLt5SwP3Gcuj1lL6StG09nu_m2TvMEKuU&usqp=CAU)
 
 CSV (Comma-Separated Values) is a common file format used for storing tabular data...
 
