@@ -1,6 +1,6 @@
 # Video KYC System
 
-![Video KYC](https://w7.pngwing.com/pngs/172/703/png-taransparent-standard-chartered-bank-logo-business-finance-bank-blue-text-investment.png)
+![Video KYC](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.rblbank.com%2Fwhat-is-kyc-and-how-important-it-is-in-fixed-deposit%2F&psig=AOvVaw3BzPmeDOEGefpDeAyxEd0a&ust=1710493608037000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiVkbqz84QDFQAAAAAdAAAAABAD)
 
 A web-based system for conducting video KYC (Know Your Customer) sessions. This system allows users to register themselves by providing necessary details and conduct video-based KYC sessions for identity verification purposes.
 
@@ -33,7 +33,7 @@ CSV (Comma-Separated Values) is a common file format used for storing tabular da
 
 ### WebRTC
 
-![WebRTC Logo](https://e7.pngegg.com/pngimages/180/336/png-clipart-webrtc-web-browser-computer-software-announcing-text-logo.png)
+![WebRTC Logo](https://blog.wildix.com/wp-content/uploads/2016/11/webrtc-logo-vert-retro-255x305-1.png)
 
 WebRTC (Web Real-Time Communication) is a free, open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces (APIs)...
 
