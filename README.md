@@ -15,7 +15,7 @@ A web-based system for conducting video KYC (Know Your Customer) sessions. This 
 
 ### Python
 
-![Python Logo](path/to/python_logo.png)
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
 
 Python is a widely-used programming language known for its simplicity and versatility...
 
